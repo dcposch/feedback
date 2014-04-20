@@ -17,6 +17,9 @@ issue just so I know what I've covered, but don't worry- if you have any further
 questions just respond in the thread and I'll get back to you soon. Feel free to
 ask a question on any old issue too, even if you didn't create it.
 
+---
+
+### File a bug
 
 ---
 
