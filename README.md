@@ -9,7 +9,7 @@ Stolen from [@holman](https://github.com/holman)
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/holman/feedback/issues/new) on this
+[creating a new issue](https://github.com/dcposch/feedback/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
