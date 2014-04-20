@@ -2,7 +2,7 @@
 
 ![Bad artists imitate, great artists steal](http://i.imgur.com/xvFsunv.png)
 
-Stolen from @holman
+Stolen from [@holman](https://github.com/holman)
 
 ---
 
