@@ -1,6 +1,6 @@
 # dcposch/feedback
 
-[Imgur](http://i.imgur.com/xvFsunv.png)
+![Bad artists imitate, great artists steal](http://i.imgur.com/xvFsunv.png)
 
 Stolen from @holman
 
